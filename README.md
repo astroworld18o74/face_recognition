@@ -14,15 +14,9 @@ python main.py
 ## Use google colab link to get our project as it support gpu
 <h3>Click on link below
 
-[Open the google colab Notebook](https://colab.research.google.com/drive/1AgwD8qEdvzLhPOixOqR5ujp8Swxnl5BT?usp=sharing)
+[Open the google colab Notebook](https://colab.research.google.com/drive/1rIZtV994HxXPGKRspNXmAR1wEN3fQAQF?usp=sharing)
 ```
 And use Shift + Enter to run all the cells 
 Running all the cells will download all the code and will run the main function for predictions
 You can add your own images to predict and see the code using File and Open Section in Google Colab.
-```
-## Contributors 
-```
-Shubham Kumar 
-Ankit Kumar
-Gajendra Surariya
 ```
